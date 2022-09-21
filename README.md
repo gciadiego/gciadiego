@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on automation tasks.
-- 🌱 I’m currently learning a lot about AWS.
+- 🔭 I’m currently developing Android apps.
+- 🌱 I’m currently learning about AWS.
 - 💬 Ask me about anything!
 - 📫 How to reach me: gciadiegoa@gmail.com
 - ⚡ Fun fact: I love making notes about everything!
